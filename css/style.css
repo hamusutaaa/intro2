@@ -1,0 +1,43 @@
+@import url(sanitize.css);
+.content {
+    text-align: center;
+    background-color:  rgb(186, 232, 225);
+    width: 600px;
+    margin: 10px auto;
+    border: 20px rgba(151, 242, 221, 0.363);
+    padding: 20px;
+    color: dimgray
+}
+header h1 {
+    font-size: 28px;
+    margin: 0; /* 余白をなくす */
+    color: mediumaquamarine;
+}
+h2 {
+    font-size: 24px;
+    margin: 0;
+    color: lightcoral;
+}
+h3 {
+    font-size: 20px;
+    margin: 0;
+    color: lightcoral;
+}
+h4 {
+    font-size: 18px;
+    margin: 10;
+    color: dimgray;
+}
+p {
+    font-size: 17px;
+    margin: 0;
+    color: rgb(33, 123, 112);
+}
+a {
+    background-color: silver;
+}
+#showClock {
+    text-align: center;
+    font-size: 11px;
+    color: dimgray;
+}
